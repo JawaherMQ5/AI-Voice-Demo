@@ -67,7 +67,7 @@ Chatbot: "I'm doing great! How can I assist you today?"
 
 > 📸 Add your screenshot below for visual reference:
 
-![Chatbot Screenshot](path/to/your/screenshot.png)
+![Chatbot Screenshot](https://github.com/JawaherMQ5/AI-Voice-Demo/blob/main/photo_5811926453795801649_y.jpg)
 
 ---
 
